@@ -17,7 +17,8 @@ I've left some boilerplate below for you.
 }
 
 body {
-
+  font-family: sans-serif;
+  margin: 2em;
 }
 
 article {
