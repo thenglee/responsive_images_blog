@@ -1,3 +1,10 @@
+/* zocial */
+[class*="zocial-"]:before {
+
+  font-family: 'zocial', sans-serif;
+
+}
+
 * {
   box-sizing: border-box;
 }
