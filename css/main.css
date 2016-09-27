@@ -1,8 +1,6 @@
 /* zocial */
 [class*="zocial-"]:before {
-
   font-family: 'zocial', sans-serif;
-
 }
 
 * {
@@ -14,8 +12,10 @@ body {
   margin: 2em;
 }
 
-article {
-  width: 50em;
+header,
+footer {
+  margin: 0 auto;
+  width: 800px;
 }
 
 h1 {
@@ -23,6 +23,17 @@ h1 {
   width: 800px;
 }
 
+article {
+  width: 50em;
+}
+
 img {
   max-width: 100%;
+}
+
+.main-logo {
+  fill: #666;
+  height: 6vw;
+  margin: 0 auto 0.5em auto;
+  width: 6vw;
 }
