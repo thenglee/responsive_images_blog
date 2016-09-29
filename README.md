@@ -17,7 +17,7 @@ The project is based on [Udacity's Responsive Images course](https://www.udacity
 
 - Replace the smiley face image with a unicode smiley face
 - Replace the flourish with a markup technique or vector graphic
-- Add social media icons for Twitter, Facebook, Google+ and Diff to the bottom of the page
+- Add social media icons for Twitter, Facebook, Google+ and Digg to the bottom of the page
 - Optional: Add your own SVG logo
 
 ###### Part 3
