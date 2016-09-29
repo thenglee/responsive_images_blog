@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
 }
 
 body {
@@ -11,6 +13,10 @@ header,
 footer {
   margin: 0 auto;
   width: 800px;
+}
+
+header {
+  font-weight: 400;
 }
 
 h1 {
