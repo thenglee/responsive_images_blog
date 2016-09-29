@@ -9,6 +9,7 @@ body {
 }
 
 header,
+section,
 footer {
   margin: 0 auto;
   width: 800px;
